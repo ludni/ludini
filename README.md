@@ -1,4 +1,4 @@
-# ludini
+# TLD
 TDL (the last donete) is a game a made in python im currently on 12º grade.
 
 # 🍩 TLD (The Last Donete) - The Final Sugary Battle
